@@ -1,3 +1,6 @@
+Small damo data included ＠The average signal along layer\demo
+
+
 Normalize_signal 
 The average signal along layer
 
