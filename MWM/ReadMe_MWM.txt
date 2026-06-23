@@ -1,3 +1,5 @@
+Small damo data (bahavior track date)included ＠MWM\demo
+
 Quantiate Turn
 @ Turn_bahavior
 1, Run“Run_Quantitate_shortTurn.m” with matlab
