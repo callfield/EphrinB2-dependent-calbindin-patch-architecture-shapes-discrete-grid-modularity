@@ -1,1 +1,1 @@
-A README file is included with each analysis file.
+A Detailed README file is included with each analysis file.
