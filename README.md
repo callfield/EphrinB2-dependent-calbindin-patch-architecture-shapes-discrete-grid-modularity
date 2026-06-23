@@ -1,4 +1,4 @@
-# EphrinB2-dependent calbindin patch architecture shapes discrete grid modularity in the medial entorhinal cortex
+# README
 
 This repository contains analysis code and small demo datasets associated with the manuscript:
 
