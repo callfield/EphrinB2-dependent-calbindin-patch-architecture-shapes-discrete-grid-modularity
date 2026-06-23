@@ -1,3 +1,4 @@
+Small damo data included ＠Iba1 and GFAPg\demo
 
 
 For quantification IbaI signal
